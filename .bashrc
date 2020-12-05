@@ -106,6 +106,10 @@ alias shotcut='flatpak run org.shotcut.Shotcut'
 alias katawa='flatpak run com.katawa_shoujo.KatawaShoujo'
 alias freac='flatpak run org.freac.freac'
 
+# more aliases
+alias ..='cd ..'
+alias .='cd .'
+
 # enable programmable completion features (you don't need to enable
 # this, if it's already enabled in /etc/bash.bashrc and /etc/profile
 # sources /etc/bash.bashrc).
