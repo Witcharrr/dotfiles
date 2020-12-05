@@ -103,7 +103,6 @@ alias la='ls -A'
 alias pycharm='flatpak run com.jetbrains.PyCharm-Community'
 alias retroarch='flatpak run org.libretro.RetroArch'
 alias shotcut='flatpak run org.shotcut.Shotcut'
-alias gzdoom='flatpak run org.zdoom.GZDoom' 
 alias katawa='flatpak run com.katawa_shoujo.KatawaShoujo'
 alias freac='flatpak run org.freac.freac'
 
